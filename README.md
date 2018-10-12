@@ -15,7 +15,7 @@ The application will be available on `http://localhost:8080`.
 
 ## How This Was Built
 
-1. Generate the project using a Maven archetype:
+1. Generate the project using a Maven archetype:q
 
    ```
    mvn archetype:generate -DarchetypeArtifactId=maven-archetype-webapp
